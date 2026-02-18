@@ -15,13 +15,9 @@
 - [Overview](#-overview)
 - [Features](#-features)
 - [Technology Stack](#-technology-stack)
-- [Project Structure](#-project-structure)
 - [Installation](#-installation)
 - [Usage Guide](#-usage-guide)
 - [Default Credentials](#-default-credentials)
-- [Modules](#-modules)
-- [Screenshots](#-screenshots)
-- [Contributing](#-contributing)
 - [License](#-license)
 - [Author](#-author)
 
