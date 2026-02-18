@@ -1,0 +1,1 @@
+CUST000001|whaj jutt|1234567891011|2006-01-20|street|03218888888|whaja@gmail.com|Savings|2026-01-14|Active
