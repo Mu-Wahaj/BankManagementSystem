@@ -5,7 +5,7 @@
 ![Java](https://img.shields.io/badge/Java-17-orange?logo=java)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-IDEA-blue?logo=intellij-idea)
 ![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)
-![PUCIT](https://img.shields.io/badge/PUCIT-3rd%20Semester-green)
+![PUCIT](https://img.shields.io/badge/PUCIT)
 
 **A comprehensive Bank Management System built in Java as part of 3rd Semester Software Engineering project**
 
