@@ -24,9 +24,7 @@
 ## 📖 Overview
 
 The **Bank Management System** is a Java-based console application that simulates real-world banking operations. It allows customers to manage their accounts, employees to handle banking operations, and administrators to oversee the entire system. This project demonstrates Object-Oriented Programming principles, file handling, and modular architecture.
-
 ## ✨ Features
-
 ### 👤 **Customer Module**
 - Create new bank accounts
 - Check balance inquiry
